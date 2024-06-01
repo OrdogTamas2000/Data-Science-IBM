@@ -1,2 +1,2 @@
 # Data-Science-IBM
-IMB Data Science certifite
+IMB Data Science certificate
